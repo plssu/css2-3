@@ -1,39 +1,47 @@
-/* #mainFraim {
-    
-} */
+#mainFraim {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 1280px;
+    height: 1000px;
+    background-color: #FFFFFF;
+}
 
 #mainNav {
-    margin-left: 387px;
+    display: inline-block;
     background-color: #F7F4FF;
+    width: 832px;
+    height: 50px;
+    left: 689px;
+    margin-left: 444px;
 }
 
 #controls {
-    display: inline;
-    margin-top: 0 auto;
-    font-weight: 600;
-    font-size: 12px;
-    line-height: 1px;
-    margin-left: 0;
-    width: 1231px;
-    height: 72px;
-    margin-right: auto;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 812px;
+    height: 30px;
 } 
 
 #imageicons {
-    width: 21px;
-    height: 21px;
+    width: 19px;
+    height: 19px;
     top: 13px;
     left: 13px;
 }
 
 #nextMove {
     width: 119px;
-    height: 19px;
-    font-weight: 119px;
-    font-size: 25px;
+    height: 25px;
+    font-weight: 800px;
+    font-size: 26px;
     line-height: 2px;
     margin-left: 0;
-    display: inline;
+    display: inline-block;
+    left: 40.87px;
+    top: 14.06px;
+    color: #000000;
 }
 
 #products {
@@ -143,11 +151,11 @@
     font-size: 18px;
     line-height: 22px;
     margin-left: 16px;
-    display: inline;
+    display: inline-block;
 }
 
 #what {
-    display: inline;
+    display: inline-block;
     text-align: center;
     font-size: 31px;
     margin-bottom: 40px;
@@ -158,8 +166,7 @@
 }
 
 #lorem {
-    display: inline;
-
+    display: inline-block;
 }
 
 #unlock {
