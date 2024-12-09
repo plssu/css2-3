@@ -1,7 +1,5 @@
 #mainFraim {
     display: inline-block;
-    margin: 0 auto;
-    padding: 0 auto;
     width: 1280px;
     height: 1000px;
     background-color: #FFFFFF;
@@ -120,7 +118,6 @@
 
 #button {
     color: #8E26C0;
-    /* background: ; */
     border-radius: 8px;
     border: 1px solid #8E26C0;
     width: 75px;
@@ -133,67 +130,33 @@
 }
 
 #comunication {
-    width: 500px;
-    height: 300;
-    top: 214px;
-    left: 350px;
-    margin-left: 60px;
-    margin-top: 70px;
+    
 }
 
 #instructor {   
-    width: 644px;
-    height: 325px;
-    text-align: center;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 22px;
-    margin-left: 16px;
-    display: inline-block;
+    
 }
 
 #what {
-    display: inline-block;
-    text-align: center;
-    font-size: 31px;
-    margin-bottom: 40px;
-    margin-left: 50px;
-    margin-right: 500px;
-    padding: 0;
-    margin-left: 0;
+    
 }
 
 #lorem {
-    display: inline-block;
+    
 }
 
 #unlock {
-    display: inline-block;
-    text-align: center;
-    width: 828px;
-    margin-top: 0;
+    
 }
 
 #enjoy {
-    text-align: center;
-    font-family: sans-serif;
+    
 }
 
 #opportunity {
-    display: inline-block;
-    text-align: center;
-    width: 447px;
-    margin-top: 0;
-    margin-left: 220px;
+    
 }
 
 #become {
-    margin-left: 356px;
-    width: 170px;
-    height: 40px;
-    background-color: green;
-    border: 2px solid green;
-    color: white;
+    
 }
