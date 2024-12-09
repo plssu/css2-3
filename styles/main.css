@@ -1,162 +1,115 @@
-#mainFraim {
-    display: inline-block;
-    width: 1280px;
-    height: 1000px;
-    background-color: #FFFFFF;
-}
-
 #mainNav {
     display: inline-block;
-    background-color: #F7F4FF;
-    width: 832px;
+    width: 1296px;
     height: 50px;
     left: 689px;
-    margin-left: 444px;
+    text-align: right;
+    margin: 0;
 }
 
 #controls {
     display: inline-block;
-    margin-left: 10px;
-    margin-top: 10px;
-    width: 812px;
-    height: 30px;
-} 
-
-#imageicons {
-    width: 19px;
-    height: 19px;
-    top: 13px;
-    left: 13px;
+    width: 885px;
+    height: 50px;
+    background-color: #F7F4FF;
+    margin: 0;
+    margin-bottom: 142px;
 }
 
 #nextMove {
-    width: 119px;
-    height: 25px;
-    font-weight: 800px;
-    font-size: 26px;
-    line-height: 2px;
-    margin-left: 0;
     display: inline-block;
-    left: 40.87px;
-    top: 14.06px;
-    color: #000000;
+    padding-top: 8px;
+    margin: 0;
+    margin-right: 155px;
 }
 
 #products {
     display: inline-block;
-    margin-top: 0 auto;     
-    width: 410px;
-    color: #323232;
-    align-items: center;
-    padding-top: 0;
-    padding-left: 80px;
-    padding-right: 0;
-    padding-bottom: 0;
-    width: 600px;
-    height: 22px;
-    font-style: normal;
+    color: #323;
+    font-family: 'Inter';
     font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0;
+    margin-right: 20px;
 }
   
 #about {
-    width: 54px;
-    height: 22px;
+    display: inline-block;
+    color: #323;
     font-family: 'Inter';
-    font-style: normal;
-    font-weight: 600;
     font-size: 18px;
-    line-height: 22px;
-    margin-left: 16px;
-    display: inline;
-    color: #FF5DA3;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0;
+    margin-right: 20px;
 }
   
 #offer {
-    display: inline;
-    margin-left: 16px;
-    width: 127px;
-    height: 22px;
+    display: inline-block;
+    color: #323;
     font-family: 'Inter';
+    font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
-    color: #323232;
+    margin: 0;
+    margin-right: 20px;
 }
   
 #contact {
-    font-size: 24px;
-    margin-left: 16px;
-    display: inline;
-    width: 68px;
-    height: 22px;
+    display: inline-block;
+    color: #323;
     font-family: 'Inter';
+    font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
-    color: #323232;
+    margin: 0;
+    margin-right: 20px;
+    color: #8E26C0;
 }
   
 #help {
-    margin-left: 10px;
-    font-size: 24px;
-    display: inline;
-    width: 40px;
-    height: 22px;
+    display: inline-block;
+    color: #323;
     font-family: 'Inter';
+    font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
-    color: #323232;
+    margin: 0;
+    margin-right: 160px;
 }
   
-#contactUs {
-    display: inline-block;
-}
 
 #button {
-    color: #8E26C0;
+    display: inline-block;
+    padding: 8px 16px;
     border-radius: 8px;
     border: 1px solid #8E26C0;
-    width: 75px;
-    height: 30px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
+    color: #8E26C0;
+    font-family: Inter;
     font-size: 14px;
-    line-height: 17px;
-}
-
-#comunication {
-    
+    font-style: normal;
+    margin: 0;
+    font-weight: 500;
 }
 
 #instructor {   
-    
+    display: block;
+    width: 1180px;
+    margin-top: 142px;
+    margin-left: 96px;
+}
+
+#comunication {
+    display: inline;
+    width: 563px;
+    height: 338px;
 }
 
 #what {
-    
+    display: inline-block;
 }
 
 #lorem {
-    
-}
-
-#unlock {
-    
-}
-
-#enjoy {
-    
-}
-
-#opportunity {
-    
-}
-
-#become {
-    
+    display: inline-block;
 }
