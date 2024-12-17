@@ -1,25 +1,19 @@
-#mainNav {
-    display: inline-block;
-    width: 1296px;
-    height: 50px;
-    left: 689px;
-    text-align: right;
+* {
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 #controls {
-    display: inline-block;
+    margin-left: auto;
     width: 885px;
     height: 50px;
     background-color: #F7F4FF;
-    margin: 0;
     margin-bottom: 142px;
 }
 
 #nextMove {
-    display: inline-block;
     padding-top: 8px;
-    margin: 0;
     margin-right: 155px;
 }
 
@@ -80,36 +74,51 @@
 }
   
 
-#button {
+#ContactUs {
     display: inline-block;
     padding: 8px 16px;
     border-radius: 8px;
     border: 1px solid #8E26C0;
     color: #8E26C0;
-    font-family: Inter;
+    text-decoration: none;
     font-size: 14px;
     font-style: normal;
     margin: 0;
     font-weight: 500;
 }
 
-#instructor {   
-    display: block;
-    width: 1180px;
+#instructor {
+    margin: 0 auto;
+    width: 1208px;
     margin-top: 142px;
     margin-left: 96px;
 }
 
 #comunication {
-    display: inline;
     width: 563px;
     height: 338px;
 }
 
+#nextToImage {
+    width: 533px;
+    height: 308px;
+    text-align: center;
+}
+
 #what {
-    display: inline-block;
+    color: #000;
+    font-family: 'Inter';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
 }
 
 #lorem {
-    display: inline-block;
+    width: 200px;
+    height: 20px;
+    color: #535862;
+    font-family: 'Prata';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
 }
