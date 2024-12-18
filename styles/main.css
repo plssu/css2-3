@@ -113,7 +113,7 @@
     font-weight: 700;
 }
 
-.lorem {
+#lorem {
     width: 200px;
     height: 20px;
     color: #535862;
@@ -123,6 +123,21 @@
     font-weight: 400;
 }
 
+#scndDiv {
+    margin: 0 auto;
+    width: 1300px;
+}
+
+#cntctUs {
+    margin: 0 auto;
+    width: 963px;
+}
+
+#secondheader {
+    margin: 0 auto;
+    width: 563px;
+}
+
 #us {
     color: #000;
     text-align: center;
@@ -130,5 +145,156 @@
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
+    margin-bottom: 16px;
 }
 
+#ipsum {
+    color: #535862;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+#send {
+    margin: 0 auto;
+    padding: 32px;
+    background-color: #c28ddb;
+    width: 1196px;
+}
+
+#aside {
+    display: inline-block;
+    width: 400px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+}
+
+#mess{
+    margin-left: 48px;
+}
+
+
+#divOne {
+    display: block;
+    margin-top: 16px;
+}
+
+#divTwo {
+    display: block;
+    margin-top: 16px;
+}
+
+#divThree {
+    display: block;
+    margin-top: 16px;
+}
+
+#imgOfGroup {
+    vertical-align: middle;
+    background-color: #FFFFFF;
+}
+
+#Addr {
+    display: inline-block;
+    color: #000;
+    font-family: 'Phetsarath';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#Address {
+    border: none;
+    font-size: 14px;
+}
+
+#Email {
+    border: none;
+    font-size: 14px;
+}
+
+#Phone {
+    border: none;
+    font-size: 14px;
+}
+
+#imgOfEmail {
+    vertical-align: middle;
+    background-color: #FFFFFF;
+}
+
+#imgOfPhone  {
+    vertical-align: middle;
+    background-color: #FFFFFF;
+}
+
+#message {
+    display: inline-block;
+    margin-left: 24px;
+    width: 704px;
+}
+
+#sndMsg {
+    color: #1B003D;
+    font-family: "Noto Sans Georgian";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: 1.28px;
+    text-transform: uppercase;
+}
+
+#fullName {
+    display: inline-block;
+    width: 699px;
+    height: 56px;
+    background-color: ;
+    color: #6D5F8B;
+    border: 2px solid #8E26C0;
+    border-radius: 8px;
+}
+
+#name {
+    display: block;
+    margin-top: 24px;
+}
+
+#mail {
+    display: block;
+    margin-top: 24px;
+}
+
+#yourEmail {
+    display: inline-block;
+    width: 699px;
+    height: 56px;
+    background-color: ;
+    color: #6D5F8B;
+    border: 2px solid #8E26C0;
+    border-radius: 8px;
+}
+
+#text {
+    margin-top: 24px;
+    width: 699px;
+    height: 200px;
+}
+
+#submit {
+    margin-left: 600px;
+    width: 100px;
+    height: 40px;
+    margin-top: 24px;
+    background-color: #8E26C0;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+} 
+
+footer {
+    margin-top: 56px;
+}
